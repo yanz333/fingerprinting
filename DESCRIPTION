@@ -1,0 +1,12 @@
+Package: fingerprinting
+Title: Fingerprinting Walking Based on Accelerometry Data
+Version: 0.0.0.9000
+Authors@R:
+    person("Yan", "Zhang", , "yzhan559@jh.edu", role = c("cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Step by step tutorial to download, process and visualize the accelerometry data collected from 32 healthy subjects.
+Imports: tidyverse, dplyr, fields, gridExtra, devtools, data.table, mgcv, refund, qgam, survey, ggplot2, utils, ggpubr, readr, viridis, MASS
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
